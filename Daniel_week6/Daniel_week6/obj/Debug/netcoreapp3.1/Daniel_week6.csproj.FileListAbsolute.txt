@@ -1,0 +1,13 @@
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.exe
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.deps.json
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.runtimeconfig.json
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.runtimeconfig.dev.json
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.dll
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\bin\Debug\netcoreapp3.1\Daniel_week6.pdb
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.csprojAssemblyReference.cache
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.csproj.CoreCompileInputs.cache
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.AssemblyInfoInputs.cache
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.AssemblyInfo.cs
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.dll
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.pdb
+F:\Lecture Resource\Daniel\Daniel_week6\Daniel_week6\obj\Debug\netcoreapp3.1\Daniel_week6.genruntimeconfig.cache

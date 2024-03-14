@@ -1,0 +1,13 @@
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.exe
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.deps.json
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.runtimeconfig.json
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.runtimeconfig.dev.json
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.dll
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\bin\Debug\netcoreapp3.1\CsharpGame.pdb
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.csprojAssemblyReference.cache
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.csproj.CoreCompileInputs.cache
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.AssemblyInfoInputs.cache
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.AssemblyInfo.cs
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.dll
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.pdb
+F:\Lecture Resource\Daniel\Daniel_Week12\CsharpGame\obj\Debug\netcoreapp3.1\CsharpGame.genruntimeconfig.cache
